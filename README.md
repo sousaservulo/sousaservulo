@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousaservulo&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
 </div>
 
+
 <div align="center"> 
 <a href="https://instagram.com/servulosousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:servulosousa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
