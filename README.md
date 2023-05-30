@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sérvulosousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+<h3 align="center">PROFILE VIEWS</h3>
+ <p align="center">   
+ <img alingn="center" title="Visitas Perfil GitHub" src="https://profile-counter.glitch.me/sousaservulo/count.svg" />
+</p>
 <!--
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
